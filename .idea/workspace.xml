@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8769a968-a11a-4255-b1d7-6f514ab8a51e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/data-structures-jmh">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/data-structures-jmh">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="data-structures-jmh" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="data-structures-jmh" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="data-structures-jmh" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="jmh" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000019175082127" />
+      <entry key="S5" value="1.0109253561169627" />
+      <entry key="S10" value="1.2193706554424417" />
+      <entry key="S30" value="3.439746969477808" />
+      <entry key="S60" value="8.013965119632118" />
+      <entry key="M2" value="17.65090073940383" />
+      <entry key="M5" value="38.76573861515781" />
+      <entry key="M10" value="60.671841820173405" />
+      <entry key="M15" value="75.7708174953366" />
+      <entry key="M30" value="104.4879324390307" />
+      <entry key="H1" value="138.3763237991415" />
+      <entry key="H2" value="189.15711703627437" />
+      <entry key="H4" value="265.0420056154812" />
+      <entry key="D1" value="441.5774651273535" />
+      <entry key="W1" value="496.6833930343114" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.541222740181051E-80" />
+      <entry key="MS500" value="1.2877473026875338E-16" />
+      <entry key="S2" value="1.0662212842917372E-4" />
+      <entry key="S5" value="0.027319730212192892" />
+      <entry key="S10" value="0.200898495356747" />
+      <entry key="S30" value="1.0822431757345983" />
+      <entry key="S60" value="2.5825543744675947" />
+      <entry key="M2" value="5.845225610186273" />
+      <entry key="M5" value="12.336678913320185" />
+      <entry key="M10" value="18.40842241419938" />
+      <entry key="M15" value="22.441506842989313" />
+      <entry key="M30" value="29.401343380669953" />
+      <entry key="H1" value="37.42433730986393" />
+      <entry key="H2" value="51.727236702406806" />
+      <entry key="H4" value="73.08044096155213" />
+      <entry key="D1" value="117.04521145760211" />
+      <entry key="W1" value="129.67623676828194" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8766057213160351" />
+      <entry key="MS500" value="0.974004268543241" />
+      <entry key="S2" value="0.9935032136154299" />
+      <entry key="S5" value="1.0301271919238548" />
+      <entry key="S10" value="1.3943308420214289" />
+      <entry key="S30" value="4.461258895799108" />
+      <entry key="S60" value="10.509129493071573" />
+      <entry key="M2" value="23.384964709218153" />
+      <entry key="M5" value="50.99291879052849" />
+      <entry key="M10" value="78.99013865286528" />
+      <entry key="M15" value="98.13619116645788" />
+      <entry key="M30" value="133.83642622223357" />
+      <entry key="H1" value="175.76541528869922" />
+      <entry key="H2" value="240.86008687424217" />
+      <entry key="H4" value="338.10586182276876" />
+      <entry key="D1" value="558.6184375527133" />
+      <entry key="W1" value="626.3589638994354" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K355oGuRQ5Rxlxqo4PIeGcfVAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.data-structures-jmh [jmh].executor": "Run",
+    "KEY_CHAT_IN_TOOLWINDOW": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/michal/IdeaProjects/data-structures-jmh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\michal\IdeaProjects\data-structures-jmh\data-structures-jmh\src\jmh\java\me\mmtr\datastructuresjmh\lists" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="data-structures-jmh [jmh]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/data-structures-jmh" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jmh" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <EXTENSION ID="com.intellij.execution.ExternalSystemRunConfigurationJavaExtension">
+        <extension name="net.ashald.envfile">
+          <option name="IS_ENABLED" value="false" />
+          <option name="IS_SUBST" value="false" />
+          <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+          <option name="IS_IGNORE_MISSING_FILES" value="false" />
+          <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+          <ENTRIES>
+            <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+          </ENTRIES>
+        </extension>
+      </EXTENSION>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8769a968-a11a-4255-b1d7-6f514ab8a51e" name="Changes" comment="" />
+      <created>1790773231382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790773231382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
